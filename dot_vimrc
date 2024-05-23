@@ -1,0 +1,6 @@
+set relativenumber 
+set scrolloff=4
+
+inoremap jk <Esc>
+inoremap kj <Esc>
+
