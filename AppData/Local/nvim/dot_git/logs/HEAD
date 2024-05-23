@@ -1,0 +1,90 @@
+0000000000000000000000000000000000000000 8516bd34d12b3db7c2ea0b563aa25f477aea726d REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1711557397 +0100	commit (initial): initial
+8516bd34d12b3db7c2ea0b563aa25f477aea726d 7a6d142d76638cf01cbc1a6a78c745a75ddcbff0 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1711560386 +0100	commit: comp
+7a6d142d76638cf01cbc1a6a78c745a75ddcbff0 ff83c084b5d8bb7ef9d52fe6b16d6b32d2f51196 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1711646482 +0100	commit: changes: 28/03/2024
+ff83c084b5d8bb7ef9d52fe6b16d6b32d2f51196 61d3ff777d40ade63a158ac20c9df4380b4e0fd2 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712130392 +0200	pull: Fast-forward
+61d3ff777d40ade63a158ac20c9df4380b4e0fd2 40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712231778 +0200	commit: changes: 04/04/2024
+40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712231967 +0200	checkout: moving from master to test
+40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712232111 +0200	checkout: moving from test to master
+40ebcaf95fd0a40bbcdb1d45d17e9192a1af44b2 fc5fdd36a2aa73fa76e6e045ff80f82c4f34d186 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712246029 +0200	commit: changes: 04/04/2024 (2)
+fc5fdd36a2aa73fa76e6e045ff80f82c4f34d186 91d98774fac926c93bb83855211f5ce1e9fd3532 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712327324 +0200	commit: changes: 05/04/2024
+91d98774fac926c93bb83855211f5ce1e9fd3532 c1ee6bb61c8269545bccd1cc2d03e17f24ed08ed REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712562453 +0200	pull: Fast-forward
+c1ee6bb61c8269545bccd1cc2d03e17f24ed08ed b24ce7de95082a398879dad78aa7e6a0e8188280 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712592461 +0200	commit: changes: 08/04/2024
+b24ce7de95082a398879dad78aa7e6a0e8188280 a30e11842231b0314781074a30afcf8aead701cd REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712734854 +0200	pull: Fast-forward
+a30e11842231b0314781074a30afcf8aead701cd 8e4183b0c1644ccb2acff11facf8bdb251bbca42 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712764670 +0200	commit: changes: 10/04/2024
+8e4183b0c1644ccb2acff11facf8bdb251bbca42 794bc4e5266371776191b78336dbf522d6f0bed7 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712821621 +0200	pull: Fast-forward
+794bc4e5266371776191b78336dbf522d6f0bed7 5bc86465a3abb7a245124c42bcc5506a1cb6fe00 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1712850653 +0200	commit: changes: 11/04/2024
+5bc86465a3abb7a245124c42bcc5506a1cb6fe00 095958c4077c88002ab3a80e226279858d0ec325 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713167310 +0200	pull: Fast-forward
+095958c4077c88002ab3a80e226279858d0ec325 36ceb99a09ada2c4858fd8afb131880cfb210c46 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713198388 +0200	commit: changes: 15/04/2024
+36ceb99a09ada2c4858fd8afb131880cfb210c46 a14eaba0e83b749fe4ba1054d209cd3fec15265a REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713339671 +0200	pull: Fast-forward
+a14eaba0e83b749fe4ba1054d209cd3fec15265a 7b93b538a0be8542700a73f5576f13edad107818 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713367880 +0200	commit: changes: 17/04/2024
+7b93b538a0be8542700a73f5576f13edad107818 13672f886f6ea3312eb9a1c0e59b18384336fd6b REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713451775 +0200	commit: changes: 18/04/2024
+13672f886f6ea3312eb9a1c0e59b18384336fd6b df5eb257bac94a72bb7b62bb65b3178cd72185ee REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713538155 +0200	commit: changes: 19/04/2024
+df5eb257bac94a72bb7b62bb65b3178cd72185ee 9146852d02b59ea85754108bc727c1f73af250b0 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713799505 +0200	commit: create centralized todo list
+9146852d02b59ea85754108bc727c1f73af250b0 34d75574272b9e1188a5bec48592bd104cbd1184 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1713972734 +0200	commit: changes: 24/04/2024
+34d75574272b9e1188a5bec48592bd104cbd1184 ac95525c3e3f5e87a058367b2340c6b23e0e179a REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1714056973 +0200	commit: changes: 25/04/2024
+ac95525c3e3f5e87a058367b2340c6b23e0e179a fe9297a59e7dcd3e3953b6674809c20c1e80c353 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1714143983 +0200	commit: changes: 26/04/2024
+fe9297a59e7dcd3e3953b6674809c20c1e80c353 f6d4182611c48a1b4ac170555e015b7528e65862 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1714406377 +0200	commit: changes 29/04/2024
+f6d4182611c48a1b4ac170555e015b7528e65862 d6f7d0ecb5b15de47b648a4da985590219a54e47 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1714662734 +0200	commit: changes: 02/05/2024
+d6f7d0ecb5b15de47b648a4da985590219a54e47 993c5e40684595a2c08ac2f5f47412ab36681f63 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1714750295 +0200	commit: changes: 03/05/2024
+993c5e40684595a2c08ac2f5f47412ab36681f63 da6506acccf1c874b4dfc917541aea12ea4dc7a6 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1715013546 +0200	commit: changes: 06/05/2024
+da6506acccf1c874b4dfc917541aea12ea4dc7a6 c4319161b4031506347a68a9de72707e8aa0c0f6 REIBEL Léonard <leonard.reibel@gmail.com> 1716388790 +0200	rebase (start): checkout c4319161b4031506347a68a9de72707e8aa0c0f6
+c4319161b4031506347a68a9de72707e8aa0c0f6 8516bd34d12b3db7c2ea0b563aa25f477aea726d REIBEL Léonard <leonard.reibel@gmail.com> 1716388790 +0200	rebase: fast-forward
+8516bd34d12b3db7c2ea0b563aa25f477aea726d 00d2372e575ddac7bb001c2bc7e9f8df286f58f5 REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	commit (amend): initial
+00d2372e575ddac7bb001c2bc7e9f8df286f58f5 c5637b95a885f18b416f33b715abfdd8af86624a REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	rebase (pick): comp
+c5637b95a885f18b416f33b715abfdd8af86624a 04268153d02b89486fefb7495945ab601b4bb270 REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	commit (amend): comp
+04268153d02b89486fefb7495945ab601b4bb270 19482fa4614e907741cf6e2507a3ae93b915d89c REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	rebase (pick): changes: 28/03/2024
+19482fa4614e907741cf6e2507a3ae93b915d89c 36f94aee14b9f68686a37f7cc3bfd87652f6b62d REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	commit (amend): changes: 28/03/2024
+36f94aee14b9f68686a37f7cc3bfd87652f6b62d 96c663583a3926dccec22aa42e448e14067ed76f REIBEL Léonard <leonard.reibel@gmail.com> 1716388791 +0200	rebase (pick): changes: 30/03/2024
+96c663583a3926dccec22aa42e448e14067ed76f d7c1b46d3b389a0536ddad6e6194314e38a51198 REIBEL Léonard <leonard.reibel@gmail.com> 1716388792 +0200	commit (amend): changes: 30/03/2024
+d7c1b46d3b389a0536ddad6e6194314e38a51198 99dacaf99280c4f8b96bf99727569e87de5ded37 REIBEL Léonard <leonard.reibel@gmail.com> 1716388792 +0200	rebase (pick): changes: 01/04/2024
+99dacaf99280c4f8b96bf99727569e87de5ded37 8dafc2c4fbc3123c8ca469dd50d5b3bbadc969b1 REIBEL Léonard <leonard.reibel@gmail.com> 1716388792 +0200	commit (amend): changes: 01/04/2024
+8dafc2c4fbc3123c8ca469dd50d5b3bbadc969b1 991d607ba8d7af5e6e2b8c89ccadfeb8aece67ae REIBEL Léonard <leonard.reibel@gmail.com> 1716388792 +0200	rebase (pick): changes: 02/04/2024
+991d607ba8d7af5e6e2b8c89ccadfeb8aece67ae c31e1199c5f513aac962bbce8d1b50ba99281adc REIBEL Léonard <leonard.reibel@gmail.com> 1716388792 +0200	commit (amend): changes: 02/04/2024
+c31e1199c5f513aac962bbce8d1b50ba99281adc ce8592bfff111b5add738f47a3896ff7d5cbe331 REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	rebase (pick): changes: 04/04/2024
+ce8592bfff111b5add738f47a3896ff7d5cbe331 9cfc1ef5ec85dd23a8d1a8780b01380aab0a5700 REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	commit (amend): changes: 04/04/2024
+9cfc1ef5ec85dd23a8d1a8780b01380aab0a5700 26ee2ed955199adae2cfd1ddb033b8916775a0f4 REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	rebase (pick): changes: 04/04/2024 (2)
+26ee2ed955199adae2cfd1ddb033b8916775a0f4 a9a301e653272b42295e42f5854a8550f3fce5ad REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	commit (amend): changes: 04/04/2024 (2)
+a9a301e653272b42295e42f5854a8550f3fce5ad 311a57a415d4c1d79d202aa9f8b39e18cfc8c6f0 REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	rebase (pick): changes: 05/04/2024
+311a57a415d4c1d79d202aa9f8b39e18cfc8c6f0 968a1e9529d1b005e83645a649a0a0bce5e5662e REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	commit (amend): changes: 05/04/2024
+968a1e9529d1b005e83645a649a0a0bce5e5662e 35c907d1862e5541001bc13ecfbc934509a03e25 REIBEL Léonard <leonard.reibel@gmail.com> 1716388793 +0200	rebase (pick): changes : 07/04/2024
+35c907d1862e5541001bc13ecfbc934509a03e25 8086cf78a29ff5b04c574740a26795a24ac0357a REIBEL Léonard <leonard.reibel@gmail.com> 1716388794 +0200	commit (amend): changes : 07/04/2024
+8086cf78a29ff5b04c574740a26795a24ac0357a a2ae6df329297f309ac4a76107223f1819860364 REIBEL Léonard <leonard.reibel@gmail.com> 1716388794 +0200	rebase (pick): changes: 08/04/2024
+a2ae6df329297f309ac4a76107223f1819860364 500b8e663c6831a0ab6d97f1992672c34875fbe0 REIBEL Léonard <leonard.reibel@gmail.com> 1716388794 +0200	commit (amend): changes: 08/04/2024
+500b8e663c6831a0ab6d97f1992672c34875fbe0 46be6fbc84007f49db25a1c78d12ebf26bb1c379 REIBEL Léonard <leonard.reibel@gmail.com> 1716388794 +0200	rebase (pick): changes: 09/04/2024
+46be6fbc84007f49db25a1c78d12ebf26bb1c379 1099e69e38a04d295fe0cc126a47cd38b40f582c REIBEL Léonard <leonard.reibel@gmail.com> 1716388794 +0200	commit (amend): changes: 09/04/2024
+1099e69e38a04d295fe0cc126a47cd38b40f582c 6c75ad2ead304bb556fa269952b6d9c566a7b65c REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	rebase (pick): changes: 10/04/2024
+6c75ad2ead304bb556fa269952b6d9c566a7b65c 9b7e13e36e813b660141ecb6a42dfce776f43815 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	commit (amend): changes: 10/04/2024
+9b7e13e36e813b660141ecb6a42dfce776f43815 796847baab46d371312f351297189ba5ab9d32f5 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	rebase (pick): changes: 10/04/2024 night
+796847baab46d371312f351297189ba5ab9d32f5 088f545d7b01a02d9b1171e5f06dc34a8bf3c603 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	commit (amend): changes: 10/04/2024 night
+088f545d7b01a02d9b1171e5f06dc34a8bf3c603 2fe0a367ae5dd9161e1fe7b390ac49fa9f8602b1 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	rebase (pick): changes: 11/04/2024
+2fe0a367ae5dd9161e1fe7b390ac49fa9f8602b1 e397a8dc02fb0794bf608c722bae05f2c3078c68 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	commit (amend): changes: 11/04/2024
+e397a8dc02fb0794bf608c722bae05f2c3078c68 c0dae75eea1ffc814f636d09c766c7c2f80590f3 REIBEL Léonard <leonard.reibel@gmail.com> 1716388795 +0200	rebase (pick): changes: 14/04/2024
+c0dae75eea1ffc814f636d09c766c7c2f80590f3 bafccc8652f99c9d8540f4bf64c5081033a42a75 REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	commit (amend): changes: 14/04/2024
+bafccc8652f99c9d8540f4bf64c5081033a42a75 58117c5ddc00aae4a450243535e09c066d5fa9ba REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	rebase (pick): changes: 15/04/2024
+58117c5ddc00aae4a450243535e09c066d5fa9ba 133539d416de597c80eda903b60db5d34a9e8719 REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	commit (amend): changes: 15/04/2024
+133539d416de597c80eda903b60db5d34a9e8719 7039fd38752ee73e2680150896ad8adcc48d552c REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	rebase (pick): working on dotnet adapter 16/04/2024
+7039fd38752ee73e2680150896ad8adcc48d552c 56e6154dbcc8246a2f61c115ac9a11f4641188f0 REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	commit (amend): working on dotnet adapter 16/04/2024
+56e6154dbcc8246a2f61c115ac9a11f4641188f0 616171d2778a02618a5b3c0f26fd0521892cc821 REIBEL Léonard <leonard.reibel@gmail.com> 1716388796 +0200	rebase (pick): changes: 17/04/2024
+616171d2778a02618a5b3c0f26fd0521892cc821 9c7b15cbd35586312ecda36deca6558c9bca628a REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	commit (amend): changes: 17/04/2024
+9c7b15cbd35586312ecda36deca6558c9bca628a 6127ad8a961ed4797aace50e22ed6365f63b3f93 REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	rebase (pick): changes: 18/04/2024
+6127ad8a961ed4797aace50e22ed6365f63b3f93 c56482282f19b705a992af70760df782c708d2d7 REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	commit (amend): changes: 18/04/2024
+c56482282f19b705a992af70760df782c708d2d7 80f904805c7690673f3d0ae0fcfcaaef80b0612f REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	rebase (pick): changes: 19/04/2024
+80f904805c7690673f3d0ae0fcfcaaef80b0612f 1cae5bf4daefcf1739256ea78d2e71686f6ad3d5 REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	commit (amend): changes: 19/04/2024
+1cae5bf4daefcf1739256ea78d2e71686f6ad3d5 d71982ae299075a7b7eb574008907a32f5b12e4f REIBEL Léonard <leonard.reibel@gmail.com> 1716388797 +0200	rebase (pick): create centralized todo list
+d71982ae299075a7b7eb574008907a32f5b12e4f 9c9a3985897e789d2143bd801b8636088913e676 REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	commit (amend): create centralized todo list
+9c9a3985897e789d2143bd801b8636088913e676 935f1f09489c0dc926618b6c2ef3ee9df193ef7b REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	rebase (pick): changes: 24/04/2024
+935f1f09489c0dc926618b6c2ef3ee9df193ef7b e1feaac74151d7b58c53cf5905242560e969b1eb REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	commit (amend): changes: 24/04/2024
+e1feaac74151d7b58c53cf5905242560e969b1eb 54e68ea73306d568653c93aa56a4ab1fbebb1528 REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	rebase (pick): changes: 25/04/2024
+54e68ea73306d568653c93aa56a4ab1fbebb1528 e091f3d83cc4c640b4a824114dd2165044461555 REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	commit (amend): changes: 25/04/2024
+e091f3d83cc4c640b4a824114dd2165044461555 63cc9c9c050de1eb7ef65aca86270f5cdc198637 REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	rebase (pick): changes: 26/04/2024
+63cc9c9c050de1eb7ef65aca86270f5cdc198637 041035d5f8936f2c468a0051fc51095c945fe561 REIBEL Léonard <leonard.reibel@gmail.com> 1716388798 +0200	commit (amend): changes: 26/04/2024
+041035d5f8936f2c468a0051fc51095c945fe561 85e54e41f7eb607104e7a895b3fe8084cfd76fc2 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	rebase (pick): changes 29/04/2024
+85e54e41f7eb607104e7a895b3fe8084cfd76fc2 40a15539533403832cf7000f919e9c3e57396fe0 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	commit (amend): changes 29/04/2024
+40a15539533403832cf7000f919e9c3e57396fe0 c868414e4f265bea7ce96d7efc60cd13d6414969 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	rebase (pick): changes: 02/05/2024
+c868414e4f265bea7ce96d7efc60cd13d6414969 4105392fad4b75e5819c93745413554738594879 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	commit (amend): changes: 02/05/2024
+4105392fad4b75e5819c93745413554738594879 f73eef6824ccb64959a69717e9a3d6edd50729e5 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	rebase (pick): changes: 03/05/2024
+f73eef6824ccb64959a69717e9a3d6edd50729e5 5371de93cd5094eedf902762b4159a632d3655a3 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	commit (amend): changes: 03/05/2024
+5371de93cd5094eedf902762b4159a632d3655a3 93eed745eee7d41f423367de1ce97ba6bd9761e5 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	rebase (pick): changes: 06/05/2024
+93eed745eee7d41f423367de1ce97ba6bd9761e5 abc47e35bd809c5f11049930e69fe97ae8fae441 REIBEL Léonard <leonard.reibel@gmail.com> 1716388800 +0200	commit (amend): changes: 06/05/2024
+abc47e35bd809c5f11049930e69fe97ae8fae441 abc47e35bd809c5f11049930e69fe97ae8fae441 REIBEL Léonard <leonard.reibel@gmail.com> 1716388799 +0200	rebase (finish): returning to refs/heads/master
+abc47e35bd809c5f11049930e69fe97ae8fae441 3ea82cbbcb959ed075adc1041578126cd1083e60 REIBEL Léonard <leonard.reibel@gmail.com> 1716480282 +0200	commit: changes: 23/05/2024
