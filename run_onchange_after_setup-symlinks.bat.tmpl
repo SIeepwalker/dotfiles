@@ -1,0 +1,3 @@
+{{- if eq .chezmoi.os "windows" -}}
+mklink /J "%HOMEDRIVE%%HOMEPATH%\AppData\local\nvim" "%HOMEDRIVE%%HOMEPATH%\neovim"
+{{- end }}

@@ -1,0 +1,10 @@
+scoop install ripgrep (for telescope)
+scoop install fd (for telescope)
+scoop install gcc (reload shell)(for treesitter)
+scoop install sed (for spectre)
+
+Fonts:
+scoop bucket add nerd-fonts
+scoop install Jetbrainsmono-nf
+install windows terminal
+param => par défault => apparence => font face: nerd font / taille 10
