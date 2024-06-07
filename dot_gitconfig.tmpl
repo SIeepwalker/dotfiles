@@ -1,6 +1,6 @@
 [user]
-	name = REIBEL Léonard (PRESTA EXT)
-	email = leonard.reibel@externe.e-i.com
+	name = {{ .name }}
+	email = {{ .email }}
 [push]
 	default = simple
 	autoSetupRemote = true
@@ -14,8 +14,6 @@
 	last = log -1 HEAD
 	st = status -s
 	aliases = config --get-regex alias
-	setproxy = config --global http.proxy http://REIBELLE@proxy-web.cm-cic.fr:8080
-	unsetproxy = config --global --unset http.proxy
 	cm = commit -m
 	aa = add -A
 	can = commit --amend --no-edit
@@ -23,11 +21,5 @@
 	sa = stash --include-untracked
 [merge]
 	conflictstyle = diff3
-[credential "https://sd-gitlab.cm-cic.fr"]
-	provider = generic
-[credential "http://proxy-web.cm-cic.fr:8080"]
-	provider = generic
 [pull]
 	twohead = ort
-[http]
-	proxy = http://REIBELLE@proxy-web.cm-cic.fr:8080
