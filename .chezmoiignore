@@ -1,3 +1,5 @@
 {{ if ne .chezmoi.os "windows" }}
-AppData
+    AppData
+    *.bat
+    *.ps1
 {{ end }}
