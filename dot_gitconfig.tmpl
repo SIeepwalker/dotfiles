@@ -1,0 +1,33 @@
+[user]
+	name = REIBEL Léonard (PRESTA EXT)
+	email = leonard.reibel@externe.e-i.com
+[push]
+	default = simple
+	autoSetupRemote = true
+[core]
+	autocrlf = input
+	filemode = false
+[alias]
+	ls = log --pretty=format:'%C(yellow)%h %C(red)%d %C(cyan)[%an] %C(reset)%s'
+	ll = log --pretty=format:'%C(yellow)%h %C(red)%d %C(cyan)[%an] %C(reset)%s' --numstat
+	graph = log --graph --all --pretty=format:'[%C(yellow)%h%C(red)%d%C(reset)][%C(cyan)%an%C(reset)] %s'
+	last = log -1 HEAD
+	st = status -s
+	aliases = config --get-regex alias
+	setproxy = config --global http.proxy http://REIBELLE@proxy-web.cm-cic.fr:8080
+	unsetproxy = config --global --unset http.proxy
+	cm = commit -m
+	aa = add -A
+	can = commit --amend --no-edit
+	lo = log --oneline
+	sa = stash --include-untracked
+[merge]
+	conflictstyle = diff3
+[credential "https://sd-gitlab.cm-cic.fr"]
+	provider = generic
+[credential "http://proxy-web.cm-cic.fr:8080"]
+	provider = generic
+[pull]
+	twohead = ort
+[http]
+	proxy = http://REIBELLE@proxy-web.cm-cic.fr:8080
