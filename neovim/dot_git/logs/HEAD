@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 3ea82cbbcb959ed075adc1041578126cd1083e60 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1716480906 +0200	clone: from https://github.com/SIeepwalker/nvim-config.git
-3ea82cbbcb959ed075adc1041578126cd1083e60 28f43765aebd7185a3c0b15261ed30c3bde36ab6 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1716821071 +0200	commit: changes: 27/05/2024
-28f43765aebd7185a3c0b15261ed30c3bde36ab6 065db40c6b8213245d424dd52cda791af346c40f REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1717164377 +0200	commit: changes: 31/05/2024
-065db40c6b8213245d424dd52cda791af346c40f 09a7b69b40f9b0a14f6645080541f98815a7ff78 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1717429324 +0200	commit: update to v0.10, remove telescope
-09a7b69b40f9b0a14f6645080541f98815a7ff78 3f22a38636cfe1e81e948ffd0403c29856a627d3 REIBEL Léonard (PRESTA EXT) <leonard.reibel@externe.e-i.com> 1717686794 +0200	commit: fix lsp setup, add oil
