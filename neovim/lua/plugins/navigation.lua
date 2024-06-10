@@ -41,7 +41,7 @@ return {
     },
     {
         'stevearc/oil.nvim',
-        event = "VeryLazy",
+        lazy = false,
         config = function()
             local function cdAndNotify()
                 require("oil.actions").cd.callback()
