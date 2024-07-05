@@ -1,0 +1,12 @@
+$input = ""
+
+while ($input -notin "y", "n", "Y", "N"){
+    $input = Read-Host "Did you install git via scoop ? [Y] [N]"
+}
+
+if ($input -eq "y"){
+    [Environment]::SetEnvironmentVariable("YAZI_FILE_ONE", "C:\Users\" + $env:UserName + "\scoop\apps\git\current\usr\bin\file.exe", "User")
+}
+else {
+    [Environment]::SetEnvironmentVariable("YAZI_FILE_ONE", "C:\Program Files\Git\usr\bin\file.exe", "User")
+}
