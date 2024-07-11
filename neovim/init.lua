@@ -48,6 +48,5 @@ TODO:
 - zoxide integration
 - http-server for quick testing (Plenary ? ToggleTerm ?)
 - csharp tools: package manager, launcher, project/file creation etc.
-- open url. vim.ui.open() https://stackoverflow.com/questions/3739327/launching-a-website-via-windows-commandline
 - LSP workspace commands
 ]]

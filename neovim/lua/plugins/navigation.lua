@@ -78,5 +78,15 @@ return {
             local leap = require("leap")
             leap.create_default_mappings()
         end
+    },
+    {
+        "kevinhwang91/nvim-bqf",
+        version = "1.*",
+        event = "VeryLazy",
+        commands = { "copen" },
+        keys = { "<leader>q" },
+        config = function()
+            vim.keymap.set("n", "<leader>q", "<Cmd>copen<CR>", {})
+        end
     }
 }
