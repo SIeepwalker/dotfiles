@@ -26,6 +26,7 @@ vim.keymap.set({ "i", "v" }, "kj", "<Esc>", { noremap = true })
 vim.keymap.set('n', '<Leader>l', '<Cmd>noh<CR>', { silent = true })
 vim.keymap.set({ 'n', 'v', 'i' }, '<C-l>', '20zl', { silent = true })
 vim.keymap.set({ 'n', 'v', 'i' }, '<C-h>', '20zh', { silent = true })
+vim.keymap.set("n", "x", '"_x', { silent = true, noremap = true })
 
 -- Lazy
 
