@@ -38,6 +38,10 @@ lspConfig.emmet_language_server.setup{
     capabilities = capabilities,
 }
 
+lspConfig.rust_analyzer.setup{
+    capabilities = capabilities
+}
+
 lspConfig.omnisharp.setup {
     FormattingOptions = {
         -- Enables support for reading code style, naming convention and analyzer
