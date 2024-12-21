@@ -1,5 +1,8 @@
 {{ if ne .chezmoi.os "windows" }}
     AppData
-    *.bat
-    *.ps1
+    .chezmoiscripts/windows/*
+{{ end }}
+
+{{ if eq .chezmoi.os "windows" }}
+    .config
 {{ end }}

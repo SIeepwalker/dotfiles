@@ -10,7 +10,7 @@ vim.o.expandtab = true
 vim.o.shiftwidth = 4
 vim.o.tabstop = 4
 vim.o.colorcolumn = "120"
-vim.cmd("language en_US")
+vim.cmd("language en_US.UTF-8")
 
 vim.o.autoread = true
 vim.api.nvim_create_autocmd({ "BufEnter", "CursorHold", "CursorHoldI", "FocusGained" }, {
