@@ -41,6 +41,8 @@ $env.NU_PLUGIN_DIRS = [
 
 # CUSTOM
 
+$env.EDITOR = "nvim"
+
 zoxide init nushell | save -f ~/.zoxide.nu
 
 mkdir ~/.cache/starship
