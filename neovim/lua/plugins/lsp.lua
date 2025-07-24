@@ -12,11 +12,7 @@ return {
         "williamboman/mason.nvim",
         event = "VeryLazy",
         version = "1.*",
-        config = function()
-            require("cmp-setup")
-            require("mason-setup")
-            require("lsp-setup")
-        end,
+        config = function() require("plugins-config.lsp") end,
         dependencies = {
             { "williamboman/mason-lspconfig.nvim", version = "1.*" },
             { "neovim/nvim-lspconfig",             version = "0.*" },

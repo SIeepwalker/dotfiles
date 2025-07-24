@@ -1,44 +1,32 @@
 return {
     {
+        "nvim-treesitter/nvim-treesitter",
+        build = ":TSUpdate",
+        event = "VeryLazy",
+        config = function() require("plugins-config.treesitter") end,
+        dependencies = { "nvim-treesitter/nvim-treesitter-textobjects" }
+    },
+    {
         "kylechui/nvim-surround",
-        version = "2.*", 
+        version = "2.*",
         event = "VeryLazy",
         opts = {}
     },
     {
         'windwp/nvim-autopairs',
         event = "InsertEnter",
-        config = function()
-            require("nvim-autopairs").setup({})
-            local cmp_autopairs = require('nvim-autopairs.completion.cmp')
-            local cmp = require('cmp')
-            cmp.event:on(
-                'confirm_done',
-                cmp_autopairs.on_confirm_done()
-            )
-        end,
+        config = function() require("plugins-config.autopairs") end,
         dependencies = { 'hrsh7th/nvim-cmp' }
     },
     {
         "monaqa/dial.nvim",
         event = "VeryLazy",
-        config = function()
-            require("dial-config")
-        end
+        config = function() require("plugins-config.dial") end
     },
     {
         "uga-rosa/ccc.nvim",
         event = "VeryLazy",
         version = "2.*",
-        config = function()
-            require("ccc").setup {
-                highlighter = {
-                    auto_enable = true
-                }
-            }
-
-            vim.keymap.set("n", "<leader>c", "<Cmd>CccPick<CR>", {})
-            vim.keymap.set("n", "<leader>C", "<Cmd>CccConvert<CR>", {})
-        end
+        config = function() require("plugins-config.ccc") end
     }
 }
